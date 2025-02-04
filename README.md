@@ -23,5 +23,5 @@
 - 🔹https://github.com/anzoky/autotest_framework.git
 
 ## 📫 Связаться со мной  
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anzoky) 
-- 📧 Email: kimanzo2000@gmail.com
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anzoky)
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimanzo2000@gmail.com)  
