@@ -22,6 +22,7 @@
 - ## 📌 Мои проекты
 - 🔹https://github.com/anzoky/autotest_framework.git
 - 🔹https://github.com/anzoky/tests_for_registration_and_autorization
+- 🔹https://github.com/anzoky/test_api_project
 
 ## 📫 Связаться со мной  
 - [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anzoky)
